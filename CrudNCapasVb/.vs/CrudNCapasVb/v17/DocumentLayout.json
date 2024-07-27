@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasVb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907F8887-7B72-43C0-84D3-053F1A4DD779}|CapaDatos\\CapaDatos.vbproj|c:\\dav pru\\mi repo\\vb_sql_server\\crudncapasvb\\capadatos\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{907F8887-7B72-43C0-84D3-053F1A4DD779}|CapaDatos\\CapaDatos.vbproj|solutionrelative:capadatos\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865B99C8-09BA-44EC-98D6-7DFA4948EC1B}|CapaEntidades\\CapaEntidades.vbproj|c:\\dav pru\\mi repo\\vb_sql_server\\crudncapasvb\\capaentidades\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{865B99C8-09BA-44EC-98D6-7DFA4948EC1B}|CapaEntidades\\CapaEntidades.vbproj|solutionrelative:capaentidades\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasVb\\CapaDatos\\Class1.vb",
+              "RelativeDocumentMoniker": "CapaDatos\\Class1.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasVb\\CapaDatos\\Class1.vb",
+              "RelativeToolTip": "CapaDatos\\Class1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-27T05:50:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasVb\\CapaEntidades\\Class1.vb",
+              "RelativeDocumentMoniker": "CapaEntidades\\Class1.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasVb\\CapaEntidades\\Class1.vb",
+              "RelativeToolTip": "CapaEntidades\\Class1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-27T05:48:51.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
