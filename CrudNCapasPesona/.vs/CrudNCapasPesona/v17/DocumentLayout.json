@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|c:\\dav pru\\mi repo\\vb_sql_server\\crudncapaspesona\\capapresentacion\\eliminarpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\eliminarpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|c:\\dav pru\\mi repo\\vb_sql_server\\crudncapaspesona\\capapresentacion\\eliminarpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\eliminarpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3240E40-BA4B-401B-B1A7-3AF95FB9E508}|CapaNegocio\\CapaNegocio.vbproj|C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\capanegocio\\cnpersonas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E3240E40-BA4B-401B-B1A7-3AF95FB9E508}|CapaNegocio\\CapaNegocio.vbproj|solutionrelative:capanegocio\\cnpersonas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|c:\\dav pru\\mi repo\\vb_sql_server\\crudncapaspesona\\capapresentacion\\listadopersonas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\listadopersonas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|c:\\dav pru\\mi repo\\vb_sql_server\\crudncapaspesona\\capapresentacion\\actualizarpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\actualizarpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B20DF03-C8B6-418A-BD76-51B7B2E7B82C}|CapaDatos\\CapaDatos.vbproj|C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\capadatos\\cdpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1B20DF03-C8B6-418A-BD76-51B7B2E7B82C}|CapaDatos\\CapaDatos.vbproj|solutionrelative:capadatos\\cdpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|c:\\dav pru\\mi repo\\vb_sql_server\\crudncapaspesona\\capapresentacion\\actualizarpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\actualizarpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7D5CB2-6E8D-42A6-82C3-655531438826}|CapaEntidades\\CapaEntidades.vbproj|C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\capaentidades\\cepersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1F7D5CB2-6E8D-42A6-82C3-655531438826}|CapaEntidades\\CapaEntidades.vbproj|solutionrelative:capaentidades\\cepersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|c:\\dav pru\\mi repo\\vb_sql_server\\crudncapaspesona\\capapresentacion\\capapresentacion.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\capapresentacion.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|c:\\dav pru\\mi repo\\vb_sql_server\\crudncapaspesona\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|c:\\dav pru\\mi repo\\vb_sql_server\\crudncapaspesona\\capapresentacion\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{319F0A1A-1C8B-4971-BA76-AE4A19826953}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B20DF03-C8B6-418A-BD76-51B7B2E7B82C}|CapaDatos\\CapaDatos.vbproj|C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\capadatos\\cdconexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1B20DF03-C8B6-418A-BD76-51B7B2E7B82C}|CapaDatos\\CapaDatos.vbproj|solutionrelative:capadatos\\cdconexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EliminarPersona.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\EliminarPersona.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\EliminarPersona.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\EliminarPersona.vb",
+              "RelativeToolTip": "CapaPresentacion\\EliminarPersona.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-29T05:24:16.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EliminarPersona.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\EliminarPersona.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\EliminarPersona.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\EliminarPersona.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\EliminarPersona.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-29T05:23:28.5Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CNPersonas.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaNegocio\\CNPersonas.vb",
+              "RelativeDocumentMoniker": "CapaNegocio\\CNPersonas.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaNegocio\\CNPersonas.vb",
+              "RelativeToolTip": "CapaNegocio\\CNPersonas.vb",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-28T18:41:42.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListadoPersonas.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\ListadoPersonas.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ListadoPersonas.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\ListadoPersonas.vb",
+              "RelativeToolTip": "CapaPresentacion\\ListadoPersonas.vb",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-28T16:13:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActualizarPersona.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\ActualizarPersona.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ActualizarPersona.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\ActualizarPersona.vb",
+              "RelativeToolTip": "CapaPresentacion\\ActualizarPersona.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-29T01:18:29.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CDPersona.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaDatos\\CDPersona.vb",
+              "RelativeDocumentMoniker": "CapaDatos\\CDPersona.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaDatos\\CDPersona.vb",
+              "RelativeToolTip": "CapaDatos\\CDPersona.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-28T18:42:23.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActualizarPersona.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\ActualizarPersona.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ActualizarPersona.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\ActualizarPersona.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\ActualizarPersona.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-29T01:14:39.282Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CEPersona.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CEPersona.vb",
+              "RelativeDocumentMoniker": "CapaEntidades\\CEPersona.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CEPersona.vb",
+              "RelativeToolTip": "CapaEntidades\\CEPersona.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-28T18:16:21.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CapaPresentacion.vbproj",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\CapaPresentacion.vbproj",
+              "RelativeDocumentMoniker": "CapaPresentacion\\CapaPresentacion.vbproj",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\CapaPresentacion.vbproj",
+              "RelativeToolTip": "CapaPresentacion\\CapaPresentacion.vbproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-07-28T16:14:21.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-28T16:16:58.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "CapaPresentacion\\My Project\\Application.Designer.vb",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-29T00:09:50.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CDConexion.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaDatos\\CDConexion.vb",
+              "RelativeDocumentMoniker": "CapaDatos\\CDConexion.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaDatos\\CDConexion.vb",
+              "RelativeToolTip": "CapaDatos\\CDConexion.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-28T16:22:33.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

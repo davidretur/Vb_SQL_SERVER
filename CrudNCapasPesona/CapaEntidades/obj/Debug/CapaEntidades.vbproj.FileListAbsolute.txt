@@ -1,0 +1,10 @@
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaEntidades\bin\Debug\CapaEntidades.xml
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaEntidades\obj\Debug\CapaEntidades.vbproj.AssemblyReference.cache
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaEntidades\obj\Debug\CapaEntidades.Resources.resources
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaEntidades\obj\Debug\CapaEntidades.vbproj.GenerateResource.cache
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaEntidades\obj\Debug\CapaEntidades.vbproj.CoreCompileInputs.cache
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaEntidades\obj\Debug\CapaEntidades.xml
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaEntidades\obj\Debug\CapaEntidades.pdb

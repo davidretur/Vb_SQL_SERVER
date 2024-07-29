@@ -1,0 +1,14 @@
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\bin\Debug\CapaEntidades.xml
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\obj\Debug\CapaDatos.vbproj.Up2Date
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaDatos\obj\Debug\CapaDatos.pdb

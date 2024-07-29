@@ -1,0 +1,17 @@
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\bin\Debug\CapaEntidades.xml
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\obj\Debug\CapaNego.7FCCD464.Up2Date
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Dav Pru\mi repo\Vb_SQL_SERVER\CrudNCapasPesona\CapaNegocio\obj\Debug\CapaNegocio.pdb

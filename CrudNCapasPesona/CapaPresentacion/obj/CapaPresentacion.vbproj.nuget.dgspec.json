@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\CapaPresentacion.vbproj": {}
+  },
+  "projects": {
+    "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaDatos\\CapaDatos.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaDatos\\CapaDatos.vbproj",
+        "projectName": "CapaDatos",
+        "projectPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaDatos\\CapaDatos.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CapaEntidades.vbproj": {
+                "projectPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CapaEntidades.vbproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CapaEntidades.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CapaEntidades.vbproj",
+        "projectName": "CapaEntidades",
+        "projectPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CapaEntidades.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaNegocio\\CapaNegocio.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaNegocio\\CapaNegocio.vbproj",
+        "projectName": "CapaNegocio",
+        "projectPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaNegocio\\CapaNegocio.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaDatos\\CapaDatos.vbproj": {
+                "projectPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaDatos\\CapaDatos.vbproj"
+              },
+              "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CapaEntidades.vbproj": {
+                "projectPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CapaEntidades.vbproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\CapaPresentacion.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\CapaPresentacion.vbproj",
+        "projectName": "CapaPresentacion",
+        "projectPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\CapaPresentacion.vbproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaPresentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CapaEntidades.vbproj": {
+                "projectPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaEntidades\\CapaEntidades.vbproj"
+              },
+              "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaNegocio\\CapaNegocio.vbproj": {
+                "projectPath": "C:\\Dav Pru\\mi repo\\Vb_SQL_SERVER\\CrudNCapasPesona\\CapaNegocio\\CapaNegocio.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

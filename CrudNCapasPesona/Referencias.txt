@@ -1,0 +1,2 @@
+CapaNegocio -> CapaDatos -> CapaEntidad
+CapaPresentacion -> CapaDatos -> CapaEntidad
